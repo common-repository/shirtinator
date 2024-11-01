@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shirtinator\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-07-17 13:07+0300\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: shirtinator.php:259
+msgid "Shirtinator Creator"
+msgstr "Создатель Shirtinator'а"
+
+#: shirtinator.php:276
+msgid "open"
+msgstr "открыть"
+
+#: shirtinator.php:277
+msgid "close"
+msgstr "закрыть"
+
+#: shirtinator.php:278
+msgid "click-down and drag to move this box"
+msgstr "нажмите и перетащите этот блок"
+
+#: shirtinator.php:279
+msgid "click to %toggle% this box"
+msgstr "нажмите для %переключения% этого блока"
+
+#: shirtinator.php:280
+msgid "use the arrow keys to move this box"
+msgstr "используйте клавиши со стрелками для перемещения этого блока"
+
+#: shirtinator.php:281
+msgid ", or press the enter key to %toggle% it"
+msgstr "или нажмите клавишу ВВОД для %переключения% "
+
+#: shirtinator.php:293
+msgid "Shirtinator Shop-Partner"
+msgstr "Магазин-партнер Shirtinator'а"
+
+#: shirtinator.php:298
+#: shirtinator.php:322
+msgid "Creator ID"
+msgstr "ID разработчика"
+
+#: shirtinator.php:300
+msgid "Trage Deine Shirtinator Creator ID ein."
+msgstr "Trage Deine Shirtinator Creator ID ein."
+
+#: shirtinator.php:300
+msgid "Solltest Du keine Shirtinator Creator ID haben, kannst Du dir in nur wenigen Minuten ein kostenloses Benutzerkonto auf <a href=\"http://shirtinator.de/?cT=signIn\">http://www.shirtinator.de</a> anlegen um anschlie&szlig;end Deine Creator ID zu erhalten."
+msgstr "Solltest Du keine Shirtinator Creator ID haben, kannst Du dir in nur wenigen Minuten ein kostenloses Benutzerkonto auf <a href=\"http://shirtinator.de/?cT=signIn\">http://www.shirtinator.de</a> anlegen um anschlie&szlig;end Deine Creator ID zu erhalten."
+
+#: shirtinator.php:302
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: shirtinator.php:309
+msgid "&Uuml;ber Shirtinator"
+msgstr "&Uuml;ber Shirtinator"
+
+#: shirtinator.php:314
+msgid "Shirtinator.de"
+msgstr "Shirtinator.de"
+
+#: shirtinator.php:315
+msgid "<a href=\"http://shirtinator.de/?cT=signIn\">shirtinator.de</a> &mdash; bietet privaten sowie kommerziellen Betreibern von Internetseiten eine Plattform um innerhalb von wenigen Minuten einen T-Shirt Creator individuell anzupassen und diesen in Deine Webseite oder in Deinen Blog einzubinden &ndash; Shirtinator &uuml;bernimmt das ganze Fullfilment d.h. von der Bestellabwicklung &uuml;ber die Produktion, Lagerung, Versand bis hin zum Kundenservice."
+msgstr "<a href=\"http://shirtinator.de/?cT=signIn\">shirtinator.de</a> &mdash; bietet privaten sowie kommerziellen Betreibern von Internetseiten eine Plattform um innerhalb von wenigen Minuten einen T-Shirt Creator individuell anzupassen und diesen in Deine Webseite oder in Deinen Blog einzubinden &ndash; Shirtinator &uuml;bernimmt das ganze Fullfilment d.h. von der Bestellabwicklung &uuml;ber die Produktion, Lagerung, Versand bis hin zum Kundenservice."
+
+#: shirtinator.php:316
+msgid "T-Shirt Creator"
+msgstr "создатель T-Shirt"
+
+#: shirtinator.php:317
+#, php-format
+msgid "Im  shirtinator Creator k&ouml;nnen Deine Besucher T-Shirts und andere Produkte aus unserem Sortiment individuell gestalten und bestellen. F&uuml;r jeden verkauften Artikel der &uuml;ber Deinen Creator abgewickelt wird, erh&auml;ltst Du eine Umsatzprovision von 20% des Nettoverkaufspreises."
+msgstr "Im  shirtinator Creator k&ouml;nnen Deine Besucher T-Shirts und andere Produkte aus unserem Sortiment individuell gestalten und bestellen. F&uuml;r jeden verkauften Artikel der &uuml;ber Deinen Creator abgewickelt wird, erh&auml;ltst Du eine Umsatzprovision von 20% des Nettoverkaufspreises."
+
+#: shirtinator.php:318
+msgid "Creator Look &amp; Feel"
+msgstr "Создатель Смотри И Чувствуй"
+
+#: shirtinator.php:319
+msgid "<li>Creator Layout anpassbar</li><li>eigene Motive m&ouml;glich</li>"
+msgstr "<li>Создатель макета anpassbar</li><li>eigene Motive m&ouml;glich</li>"
+
+#: shirtinator.php:320
+msgid "Systemvoraussetzungen"
+msgstr "Системные требования"
+
+#: shirtinator.php:321
+msgid "<li>PHP5 oder h&ouml;her</li><li>720px Breite</li>"
+msgstr "<li>PHP5 старше h&ouml;her</li><li>720px Breite</li>"
+
+#: shirtinator.php:323
+msgid "Wird keine Creator ID hinterlegt, so sollte die Standard-Creator-ID (61559) von Shirtinator.de genutzt werden."
+msgstr "Если нет ID Creator на хранение, он должен быть по умолчанию Creator ID (61559) от Shirtinator.de используется. "
+
+#: shirtinator.php:324
+msgid "Verwendung"
+msgstr "Использование"
+
+#: shirtinator.php:325
+msgid "Um Deinen shirtinator Creator in eine WordPress-Seite zu integrieren, erstelle eine <a href=\"page-new.php\">neue Seite</a> und hinterlege folgenden Code <code>&lt;!--shirtinator--&gt;</code> als Inhalt. Du kannst nat&uuml;rlich zus&auml;tzlichen Inhalt hinterlegen innerhalb der Seite hinterlegen."
+msgstr "Um Deinen shirtinator Creator in eine WordPress-Seite zu integrieren, erstelle eine <a href=\"page-new.php\">neue Seite</a> und hinterlege folgenden Code <code>&lt;!--shirtinator--&gt;</code> als Inhalt. Du kannst nat&uuml;rlich zus&auml;tzlichen Inhalt hinterlegen innerhalb der Seite hinterlegen."
+
+#: shirtinator.php:396
+msgid "PHP Version muss mindestens 5.0.0 sein! Ihr Server besitzt "
+msgstr "версия PHP должна быть 5.0.0 или выше!"
+
+#: shirtinator.php:407
+msgid "Shirtinator options have been saved."
+msgstr "настройки Shirtinator сохранены."
+
